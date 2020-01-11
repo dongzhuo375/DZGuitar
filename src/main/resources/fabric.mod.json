@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "dzguitar",
+  "version": "${version}",
+
+  "name": "DZGuitar",
+  "description": "This is an example description about guitars",
+  "authors": [
+    "dongzhuo"
+  ],
+  "contact": {
+    "email": "dz.dongzhuo@gmail.com"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.github.dongzhuo375.DZGuitar.DZGuitarMod"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": ">=0.4.0",
+    "minecraft": "1.14.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.github.dongzhuo375.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "GuitarMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

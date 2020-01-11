@@ -1,0 +1,23 @@
+{
+  "itemGroup.dzguitar.all": "Guitar",
+  "key.categories.playguitar": "Guitar",
+  "key.dzguitar.e": "Playing E/1 string",
+  "key.dzguitar.b": "Playing B/2 string",
+  "key.dzguitar.g": "Playing G/3 string",
+  "key.dzguitar.d": "Playing D/4 string",
+  "key.dzguitar.a": "Playing A/5 string",
+  "key.dzguitar.e2": "Playing E/6 string",
+  "sound_event.dzguitar.dzguitar:e": "String E/1 Sound",
+  "sound_event.dzguitar.dzguitar:b": "String B/2 Sound",
+  "sound_event.dzguitar.dzguitar:g": "String G/3 Sound",
+  "sound_event.dzguitar.dzguitar:d": "String D/4 Sound",
+  "sound_event.dzguitar.dzguitar:a": "String A/5 Sound",
+  "sound_event.dzguitar.dzguitar:e2": "String E/6 Sound",
+  "item.dzguitar.basic_dz_guitar": "Basic Guitar",
+  "item.dzguitar.zyh2_dz_guitar": "Common Guitar",
+  "item.dzguitar.zyh3_dz_guitar": "Blue Electric Guitar",
+  "item.dzguitar.a_dz_guitar": "Red Electric Guitar",
+  "item.dzguitar.b_dz_guitar": "Black Electric Guitar",
+  "item.dzguitar.c_dz_guitar": "Red White Electric Guitar",
+  "item.dzguitar.d_dz_guitar": "Orange White Electric Guitar"
+}

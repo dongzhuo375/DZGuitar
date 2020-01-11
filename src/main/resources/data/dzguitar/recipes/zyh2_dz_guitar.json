@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IWI",
+    "TBT",
+    "IWI"
+  ],
+  "key": {
+    "B": {
+      "item": "dzguitar:basic_dz_guitar"
+    },
+	"W": {
+      "tag": "minecraft:logs"
+    },
+	"I": {
+      "item": "minecraft:iron_ingot"
+	},
+	"T": {
+      "item": "minecraft:string"
+	}
+  },
+  "result": {
+    "item": "dzguitar:zyh2_dz_guitar",
+    "count": 1
+  }
+}

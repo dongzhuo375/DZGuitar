@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BR ",
+    "IS ",
+    "   "
+  ],
+  "key": {
+    "B": {
+      "item": "dzguitar:zyh2_dz_guitar"
+    },
+	"I": {
+      "item": "minecraft:iron_block"
+	},
+	"S": {
+      "item": "minecraft:black_dye"
+	},
+	"R": {
+      "item": "minecraft:redstone_block"
+	}
+  },
+  "result": {
+    "item": "dzguitar:b_dz_guitar",
+    "count": 1
+  }
+}

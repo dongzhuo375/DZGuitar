@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IBI",
+    "ISI",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:logs"
+    },
+    "B": {
+      "tag": "minecraft:buttons"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dzguitar:basic_dz_guitar",
+    "count": 1
+  }
+}

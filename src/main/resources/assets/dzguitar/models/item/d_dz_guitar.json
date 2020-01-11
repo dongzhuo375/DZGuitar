@@ -1,0 +1,6 @@
+{
+  "parent" : "item/handheld" ,
+  "textures" : {
+    "layer0" : "dzguitar:item/d_dz_guitar"
+  }
+}

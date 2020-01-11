@@ -1,0 +1,23 @@
+{
+  "itemGroup.dzguitar.all": "吉他",
+  "key.categories.playguitar": "吉他",
+  "key.dzguitar.e": "弹奏E/1弦",
+  "key.dzguitar.b": "弹奏B/2弦",
+  "key.dzguitar.g": "弹奏G/3弦",
+  "key.dzguitar.d": "弹奏D/4弦",
+  "key.dzguitar.a": "弹奏A/5弦",
+  "key.dzguitar.e2": "弹奏E/6弦",
+  "sound_event.dzguitar.dzguitar:e": "弦E/1的声音",
+  "sound_event.dzguitar.dzguitar:b": "弦B/2的声音",
+  "sound_event.dzguitar.dzguitar:g": "弦G/3的声音",
+  "sound_event.dzguitar.dzguitar:d": "弦D/4的声音",
+  "sound_event.dzguitar.dzguitar:a": "弦A/5的声音",
+  "sound_event.dzguitar.dzguitar:e2": "弦E/6的声音",
+  "item.dzguitar.basic_dz_guitar": "基础吉他",
+  "item.dzguitar.zyh2_dz_guitar": "普通吉他",
+  "item.dzguitar.zyh3_dz_guitar": "蓝色电吉他",
+  "item.dzguitar.a_dz_guitar": "红色电吉他",
+  "item.dzguitar.b_dz_guitar": "黑色电吉他",
+  "item.dzguitar.c_dz_guitar": "红白电吉他",
+  "item.dzguitar.d_dz_guitar": "橙白电吉他"
+}

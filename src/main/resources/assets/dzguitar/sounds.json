@@ -1,0 +1,32 @@
+{
+  "e": {
+    "sounds": [
+      "dzguitar:e"
+    ]
+  },
+  "b": {
+    "sounds": [
+      "dzguitar:b"
+    ]
+  },
+  "g": {
+    "sounds": [
+      "dzguitar:g"
+    ]
+  },
+  "d": {
+    "sounds": [
+      "dzguitar:d"
+    ]
+  },
+  "a": {
+    "sounds": [
+      "dzguitar:a"
+    ]
+  },
+  "e2": {
+    "sounds": [
+      "dzguitar:e2"
+    ]
+  }
+}
